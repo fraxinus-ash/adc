@@ -15,4 +15,4 @@ The classes were tested on solaris and windows. In both cases the program have t
 
 <h3>Running the application</h3>
 The application runs against the Adabas demo file “Employees”. Since you have to specify the appropriate database and file number:<br>
-&ltprogram&gt &ltdemo-dbid&gt &ltemployee-demo file&gt
+&ltprogram&gt &ltdemo-dbid&gt &ltemployee-demo-fileno&gt
