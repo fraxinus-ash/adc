@@ -17,4 +17,4 @@ The classes were tested on Solaris and Windows. In both cases the program have t
 The application runs against the Adabas demo file “Employees”. Since you have to specify the appropriate database and file number:<br>
 &ltprogram&gt &ltdemo-dbid&gt &ltemployee-demo-fileno&gt
 
-Disclaimer: Usage on your own risk.
+<br>Disclaimer: Usage on your own risk.
