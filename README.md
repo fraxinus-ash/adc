@@ -11,8 +11,10 @@ The repository contains the three classes ADC, ADCSession and ADCMainTest. ADC w
 </ul>
 
 <h3>Hints for compilation</h3>
-The classes were tested on solaris and windows. In both cases the program have to be linked to an Adabas interface, usually adalnkx. Best is to adapt the makefile which comes with Adabase installation files (section client examples).
+The classes were tested on Solaris and Windows. In both cases the program have to be linked to an Adabas interface, usually adalnkx. Best is to adapt the makefile which comes with Adabase installation files (section client examples).
 
 <h3>Running the application</h3>
 The application runs against the Adabas demo file “Employees”. Since you have to specify the appropriate database and file number:<br>
 &ltprogram&gt &ltdemo-dbid&gt &ltemployee-demo-fileno&gt
+
+Disclaimer: Usage on your own risk.
